@@ -18,20 +18,20 @@ This is an open project and we're calling upon all of the rebellious and wild ch
 PSP Certification recognizes companies that are prioritizing open podcasting by supporting innovative open podcast technology.
 
 #### Podcast Hosting Services
-Blubrry
-Buzzsprout
-Captivate
-Fireside
-RedCircle
-RSS
-Transistor
-Acast (coming soon)
-Castos (coming soon)
+- Blubrry
+- Buzzsprout
+- Captivate
+- Fireside
+- RedCircle
+- RSS
+- Transistor
+- Acast (coming soon)
+- Castos (coming soon)
 
 #### Podcast Players
-CurioCaster
-Podcast Addict
-Podcast Guru
-Podfriend
-Podverse
-Pocket Casts (coming soon)
+- CurioCaster
+- Podcast Addict
+- Podcast Guru
+- Podfriend
+- Podverse
+- Pocket Casts (coming soon)
