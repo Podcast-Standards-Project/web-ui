@@ -9,13 +9,13 @@ More recently, other big tech companies have stepped in to duplicate podcastingâ
 
 The truth is that no one can kill open podcasting. Anyone with a microphone and an Internet connection will always be able to spin up a feed and broadcast to the world. But much in the same way that closed social feeds replaced open blogs, podcasting faces a similar assault today.
 
-This is the landscape that has birthed __The Podcast Standards Project__, a grassroots industry coalition working to develop modern, open standards, unlock innovation, and improve podcasting for both listeners and creators.
+This is the landscape that has birthed __The Podcast Standards Project__, a grassroots industry coalition dedicated to creating standards and practices that improve the open podcasting ecosystem for both listeners and creators.
 
 This is an open project and we're calling upon all of the rebellious and wild children of podcasting for support. Check out our [proposals](https://www.podstandards.org/proposals) and [join the movement](https://www.podstandards.org/get-involved) to keep podcasting open.
 
 
 ### PSP Certified
-PSP Certification recognizes companies that are prioritizing open podcasting by supporting innovative open podcast technology.
+PSP Certification recognizes companies that are prioritizing open podcasting technology.
 
 #### Podcast Hosting Services
 - Blubrry
