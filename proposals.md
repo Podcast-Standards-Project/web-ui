@@ -1,5 +1,5 @@
 # Proposals
-In an effort to establish modern, open standards, that enable innovation in the podcast industry, we will pursue specific proposals through open collaboration.
+In an effort to establish standards and practices that improve the open podcasting ecosystem for both listeners and creators, we will pursue specific proposals through open collaboration.
 
 ## [PSP-1: Podcast RSS Specification](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification)
 A living standard for podcast RSS feeds.
