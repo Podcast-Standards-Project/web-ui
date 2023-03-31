@@ -2,7 +2,7 @@
 The Podcast Standards Project is working to preserve open podcasting, and we do this in open environments. Most of our work will take place on [GitHub](https://github.com/Podcast-Standards-Project). You can also find us on Twitter [@PodStandards](https://twitter.com/PodStandards).
 
 ## PSP Certification
-PSP Certification recognizes companies that are prioritizing open podcasting by supporting innovative open podcast technology.
+PSP Certification recognizes companies that are prioritizing open podcasting technology.
 
 The certification process involves updating the certification request document on our GitHub with all the requested information. Someone from the community will then peer review the application to confirm all of the requirements are met. Once approved, the newly certified partner will receive permission to display the PSP Certified badge on their website, app preview, trade-show booth, or anywhere else. We will also display your logo on the PSP website and link it to your website.
 
