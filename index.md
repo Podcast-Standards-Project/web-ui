@@ -21,6 +21,7 @@ PSP Certification recognizes companies that are prioritizing open podcasting tec
 - Blubrry
 - Buzzsprout
 - Captivate
+- CastGarden
 - Fireside
 - RedCircle
 - RSS
